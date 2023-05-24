@@ -1,2 +1,1 @@
-# firmware-tp-link-2014
-Reversing a router firmware (IoT) - TP-Link TL-WR1042NDv1
+# Реверс путешествие в мире IoT (PoC's by anonimidin)
