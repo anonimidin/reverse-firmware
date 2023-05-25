@@ -55,14 +55,14 @@ ls -lm /bin
 ![7](https://github.com/anonimidin/reverse-firmware/assets/109206637/e9f2b3cc-fd19-4927-857a-ad23bf5dd205)
 
 <h5>Файл wscd.conf:</h5> 
-WSCD.Conf связан с функциональностью <a href="https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup">WPS (Wi-Fi Protected Setup)</a> устройства TP-Link беспроводной точки доступа. WPS является стандартом для простого и безопасного установления беспроводного сетевого соединения. SSID_PREFIX: этот параметр определяет префикс SSID для беспроводной сети. По умолчанию он установлен на TP-link_ap_. Дальше гугл поможет.
+WSCD.Conf связан с функциональностью <a href="https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup">WPS (Wi-Fi Protected Setup)</a> устройства TP-Link беспроводной точки доступа. WPS является стандартом для простого и безопасного установления беспроводного сетевого соединения. SSID_PREFIX: этот параметр определяет префикс SSID для беспроводной сети. По умолчанию он установлен на TP-link_ap_. Дальше гугл поможет. <br>
 
 ![8](https://github.com/anonimidin/reverse-firmware/assets/109206637/c2c1e73b-9a12-45d5-9d53-66ed1a5cceca)
 
 <h5>Директория web и исходные файлы веб шлюза:</h5>
 
 ![9](https://github.com/anonimidin/reverse-firmware/assets/109206637/cefcbab7-c1f0-4ba4-922b-d91ac75c8f19)
-Исходный код веб-интерфейса позволяет проверить, есть ли в нем зашитые значения, такие как пароли или ключи API и другие подобные данные.
+<br>Исходный код веб-интерфейса позволяет проверить, есть ли в нем зашитые значения, такие как пароли или ключи API и другие подобные данные.
 </p>
 <hr>
 <h2>c2VlIHlvdSBzb29uIQ==</h2>
